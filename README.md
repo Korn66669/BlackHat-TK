@@ -84,3 +84,14 @@ The author is not responsible for any misuse or illegal activity.
 For suggestions or collaboration, contact @Om4mm on GitHub.
 
 ---
+
+
+BlackHat-TK/
+├── blackhat-tk.sh        ← الأداة نفسها
+├── install.sh            ← سكربت التثبيت
+├── uninstall.sh          ← سكربت الحذف
+├── README.md             ← ملف الوصف
+├── LICENSE               ← الترخيص (MIT)
+├── .gitignore            ← تجاهل الملفات الغير ضرورية
+├── VERSION               ← رقم الإصدار
+└── changelog.txt         ← سجل التحديثات
