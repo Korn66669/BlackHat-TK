@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm /data/data/com.termux/files/usr/bin/blackhat
+echo -e "\e[1;31m[-] BlackHat-TK removed from your system.\e[0m"
