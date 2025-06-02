@@ -1,0 +1,5 @@
+v1.0.0 - Initial Release
+- Created BlackHat-TK core
+- Added network scanning
+- Added connected device list
+- Added colorful interface
